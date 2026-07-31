@@ -1,0 +1,15 @@
+
+  ls
+  rm testing.py
+  ls
+  clear
+  git status
+  ls
+  git status
+  clear
+  git add testing.py
+  git status
+  clear
+  git status
+  clear
+   
