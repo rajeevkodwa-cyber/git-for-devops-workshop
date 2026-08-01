@@ -12,4 +12,8 @@
   clear
   git status
   clear
-   
+  git remote -v
+ git push origin master
+ clear
+ git remote -v
+ git push origin master
