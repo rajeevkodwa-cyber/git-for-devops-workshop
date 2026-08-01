@@ -26,3 +26,6 @@
  clear
  hitory 
  history
+ git remote -v
+ git push origin master
+ clear
