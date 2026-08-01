@@ -13,7 +13,8 @@
   git status
   clear
   git remote -v
- git push origin master
- clear
- git remote -v
- git push origin master
+  2  clear
+ git status
+ git add rajeev.txt
+ git commit -m "git new cammands"
+  git push origin master
