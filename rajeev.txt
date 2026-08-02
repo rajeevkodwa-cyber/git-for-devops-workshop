@@ -24,3 +24,7 @@
  clear
  git push origin master
  clear
+git commit -m "remove some cammnds"
+ git push origin master
+ clear
+  history
