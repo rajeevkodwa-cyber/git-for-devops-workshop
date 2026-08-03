@@ -25,10 +25,12 @@
   ls
   rm testing.py
   ls
-  clear
+  clear  
   git status
   git restore testing.py
   ls
   rm cammands
   ls
   clear
+
+this is new changes
