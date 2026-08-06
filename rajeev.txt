@@ -22,6 +22,9 @@
  git commit -m "added new cammands"
  git status
  clear
+
+this is new changes
+
  git push origin master
  clear
 git commit -m "remove some cammnds"
